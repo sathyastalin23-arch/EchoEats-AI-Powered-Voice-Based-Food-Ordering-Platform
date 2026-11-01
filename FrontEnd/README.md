@@ -164,27 +164,4 @@ The voice assistant requires:
 
 
 
----
-
-### 2. Frontend Setup (React)
-
-Open a new terminal window, navigate to the `FrontEnd` directory, and start the development server:
-
-bash
-# Navigate to FrontEnd directory
-cd FrontEnd
-
-# Install dependencies
-npm install
-
-# Start React development server
-npm run dev
-
-ECHO_EATS_VOICE_ASSISTANT_DJANGO/
-├── Backend/          # Django server, models, views, & API endpoints
-├── FrontEnd/         # React application, components, & styles
-├── .gitignore        # Git ignore rules
-└── README.md         # Project documentation
-
-
 
