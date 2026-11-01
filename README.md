@@ -26,9 +26,8 @@ Follow these instructions to set up and run the application on your local machin
 
 ### 1. Backend Setup (Django)
 
-Navigate to the `Backend` directory and start the server:
 
-bash
+```bash
 # Navigate to Backend directory
 cd Backend
 
@@ -47,7 +46,6 @@ python manage.py runserver
 
 ### 2. Frontend Setup (React)
 
-bash
 # Navigate to FrontEnd directory
 cd FrontEnd
 
