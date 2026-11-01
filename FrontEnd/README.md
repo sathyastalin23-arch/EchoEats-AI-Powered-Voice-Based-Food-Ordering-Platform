@@ -187,14 +187,4 @@ ECHO_EATS_VOICE_ASSISTANT_DJANGO/
 └── README.md         # Project documentation
 
 
-# 1. Ensure you are in the root folder
-cd "C:\Users\sathy\Downloads\ECHO_EATS_VOICE_ASSISTANT_DJANGO-main (1) (1)\ECHO_EATS_VOICE_ASSISTANT_DJANGO-main"
 
-# 2. Stage the modified README file
-git add README.md
-
-# 3. Commit the change
-git commit -m "Docs: Complete remaining README setup and structure"
-
-# 4. Push updates to GitHub
-git push origin main
