@@ -19,14 +19,14 @@ Follow these instructions to set up and run the application on your local machin
 
 ### C0MMANDS TO RUN BACKEND
 
-python -m venv venv (to  create virtual environment)
-venv\Scripts\activate (to active virtual environment)
-pip install django
-pip install razorpay
-pip install openai
-pip install django-cors-header
-pip install mysqlclient
-python manage.py runserver
+- python -m venv venv (to  create virtual environment)
+- venv\Scripts\activate (to active virtual environment)
+- pip install django
+- pip install razorpay
+- pip install openai
+- pip install django-cors-header
+- pip install mysqlclient
+- python manage.py runserver
 
 ### Prerequisites
 - Python 3.10+
