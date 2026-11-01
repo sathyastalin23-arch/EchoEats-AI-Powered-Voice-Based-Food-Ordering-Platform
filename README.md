@@ -17,6 +17,17 @@ EchoEats is a full-stack food ordering platform featuring a voice recognition as
 
 Follow these instructions to set up and run the application on your local machine.
 
+### C0MMANDS TO RUN BACKEND
+
+python -m venv venv (to  create virtual environment)
+venv\Scripts\activate (to active virtual environment)
+pip install django
+pip install razorpay
+pip install openai
+pip install django-cors-header
+pip install mysqlclient
+python manage.py runserver
+
 ### Prerequisites
 - Python 3.10+
 - Node.js & npm
