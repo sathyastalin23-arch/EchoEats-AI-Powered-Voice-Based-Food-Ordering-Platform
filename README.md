@@ -28,7 +28,7 @@ Follow these instructions to set up and run the application on your local machin
 
 Navigate to the `Backend` directory and start the server:
 
-```bash
+bash
 # Navigate to Backend directory
 cd Backend
 
@@ -45,13 +45,7 @@ python manage.py migrate
 python manage.py runserver
 
 
-
-
----
-
 ### 2. Frontend Setup (React)
-
-Open a new terminal window, navigate to the `FrontEnd` directory, and start the development server:
 
 bash
 # Navigate to FrontEnd directory
@@ -62,6 +56,8 @@ npm install
 
 # Start React development server
 npm run dev
+
+# Plaintext
 
 ECHO_EATS_VOICE_ASSISTANT_DJANGO/
 ├── Backend/          # Django server, models, views, & API endpoints
