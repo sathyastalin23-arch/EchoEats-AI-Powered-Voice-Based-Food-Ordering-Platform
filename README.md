@@ -60,6 +60,7 @@ npm run dev
 # Plaintext
 
 ECHO_EATS_VOICE_ASSISTANT_DJANGO/
+
 ├── Backend/          # Django server, models, views, & API endpoints
 ├── FrontEnd/         # React application, components, & styles
 ├── .gitignore        # Git ignore rules
